@@ -1,1 +1,1 @@
-# ASL_Deep_Learning
+# Interpretation of the American Sign Language using Convolutional Neural Network
